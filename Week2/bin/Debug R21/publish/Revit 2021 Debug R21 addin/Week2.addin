@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Week2</Name>
+    <Assembly>Week2\Week2.dll</Assembly>
+    <AddInId>72F1755E-CB94-49BF-B736-5CC4A130D50B</AddInId>
+    <FullClassName>Week2.Application</FullClassName>
+    <VendorId>Development</VendorId>
+    <VendorDescription></VendorDescription>
+    <VendorEmail></VendorEmail>
+  </AddIn>
+</RevitAddIns>
